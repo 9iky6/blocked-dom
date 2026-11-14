@@ -3,6 +3,7 @@ prostovpn.org
 roskomsvoboda.org
 losslessscaling.com
 rg-adguard.net
+crystalidea.com
 
 # Моды, кряки и файлообменики
 anadius.cc
