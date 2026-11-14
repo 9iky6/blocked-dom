@@ -3,7 +3,6 @@ prostovpn.org
 roskomsvoboda.org
 losslessscaling.com
 rg-adguard.net
-winscp.net
 
 # Моды, кряки и файлообменики
 anadius.cc
